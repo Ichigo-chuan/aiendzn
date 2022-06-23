@@ -124,10 +124,12 @@ img {
 
 .ust__kutu h3:hover {
     color: #000;
+    transition: .5s;
 }
 
 .alt__kutu a:hover {
     color: #000;
+    transition: .5s;
 }
 
 
@@ -138,7 +140,7 @@ img {
         width: 75%;
     }
     
-    .hakkimizda {
+    .hosgeldiniz {
         max-width: 80%;
         
     }   
